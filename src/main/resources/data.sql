@@ -1,0 +1,2 @@
+INSERT INTO PRODUCT (code, price) VALUES ('A0001', 12.12);
+INSERT INTO PRODUCT (code, price) VALUES ('A0002', 42.42);
